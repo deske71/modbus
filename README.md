@@ -1,1 +1,3 @@
 # modbus
+
+ModbusSerialConfig 3

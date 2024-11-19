@@ -13,6 +13,8 @@ https://github.com/ClassicDIY/ModbusTool
 
 https://github.com/arendst/Tasmota/discussions/14810
 
+https://ottelo.jimdofree.com/stromz%C3%A4hler-auslesen-tasmota/
+
 ## Serial Communication
 
 https://github.com/gthvidsten/open-serial-port-monitor/releases/tag/v1.0.5988.23754

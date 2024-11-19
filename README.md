@@ -1,7 +1,10 @@
 # modbus
 
 ModbusSerialConfig 3
+
 ModbusBaudrate 115200
+
+https://github.com/ClassicDIY/ModbusTool
 
 https://github.com/arendst/Tasmota/discussions/14810
 

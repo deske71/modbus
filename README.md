@@ -17,6 +17,8 @@ https://ottelo.jimdofree.com/stromz%C3%A4hler-auslesen-tasmota/
 
 ## Serial Communication
 
+ModBusSlave starten
+
 https://github.com/gthvidsten/open-serial-port-monitor/releases/tag/v1.0.5988.23754
 
 Main Menu -> Configure Module -> TX und RX auf "Serial TX" und "Serial RX" setzen

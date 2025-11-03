@@ -42,9 +42,10 @@ https://github.com/ottelo9/tasmota-sml-images
 1,010400ffffffff@i1:10,Einspeiseleistung,W,mainsw,1
 1,010400ffffffff@i2:10,string 1 unten,W,s1w,1
 1,010400ffffffff@i3:10,string 2 oben,W,s2w,1
-'''
+```
 
 ### Variante (0BBD => Register 3005)
+```
 >D
 
 >B
@@ -53,3 +54,4 @@ https://github.com/ottelo9/tasmota-sml-images
 >M 1
 +1,16,m,1,9600,GRW,17,10,01040BBD
 1,010404UUuuUUuu@i0:10,Einspeisestrom,A,mainsc,1
+```

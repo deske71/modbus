@@ -1,5 +1,7 @@
 # modbus
 
+https://community.symcon.de/uploads/short-url/jFo2xrUpTus03y9fWeYrp0Dbfng.pdf
+
 ModbusSerialConfig 3
 
 ModbusBaudrate 115200
